@@ -28,7 +28,6 @@ anime.csv-  file containing the data realting to the anime like genre type etc.
 Anime_recommendation_Blog_post.ipynb - Jupyter notebook for the blog post.
 
 
-## Licenses <a name="Licenses"></a>
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 I would like to give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/CooperUnion/anime-recommendations-database). Otherwise, feel free to use the code here as you would like!
