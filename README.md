@@ -1,5 +1,5 @@
 # Blog-Post-DS
-Udacity project for data science blog post.
+Udacity project for data science blog post regarding the popular anime recommendations.
 
 ## Installation <a name="installation"></a>
     - Python 3.6.5 to support the python code.
