@@ -30,4 +30,7 @@ Anime_recommendation_Blog_post.ipynb - Jupyter notebook for the blog post.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-I would like to give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/CooperUnion/anime-recommendations-database). Otherwise, feel free to use the code here as you would like!
+I would like to give credit to Udacity courses for some of code ideas, and to kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/CooperUnion/anime-recommendations-database).
+Also find my blog at the link mentioned
+[Click here to view blog](https://medium.com/@wadhai.piyush/the-must-watch-anime-series-of-the-era-18a8f08f7e05).
+Otherwise, feel free to use the code here as you would like!
